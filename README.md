@@ -21,9 +21,9 @@ The program:
 - Moves up one folder relative to its location.
 - Excludes the folder where it is executed.
 - Generates a tree-like representation similar to this:
-
-Software designed by Massimo Ronzulli 2025
+- 
 ```bash
+Software designed by Massimo Ronzulli 2025
 PSM/
 ├─ index.html
 ├─ struttura.txt
