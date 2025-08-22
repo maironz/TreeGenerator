@@ -56,13 +56,13 @@ PSM/
 **Italiano:**
 Clonare il repository:
 ```bash
-git clone https://github.com/maironz/treegenerator.git
+git clone https://github.com/maironz/TreeGenerator.git
 ```
 
 Spostarsi nella cartella del programma:
 
 ```bash
-cd treegenerator
+cd TreeGenerator
 ```
 **English:**
 Clone the repository:
