@@ -56,7 +56,7 @@ PSM/
 **Italiano:**
 Clonare il repository:
 ```bash
-git clone https://github.com/tuo-username/treegenerator.git
+git clone https://github.com/maironz/treegenerator.git
 ```
 
 Spostarsi nella cartella del programma:
@@ -67,12 +67,12 @@ cd treegenerator
 **English:**
 Clone the repository:
 ```bash
-git clone https://github.com/tuo-username/treegenerator.git
+git clone https://github.com/maironz/TreeGenerator.git
 ```
 
 Go to the program folder:
 ```bash
-cd treegenerator
+cd TreeGenerator
 ```
 
 ## Utilizzo/ Usage
@@ -81,7 +81,7 @@ cd treegenerator
 Eseguire il programma da riga di comando:
 
 ```bash
-treegenerator.exe
+TreeGenerator.exe
 ```
 
 Dopo l'esecuzione, il file struttura.txt sarà generato nella stessa cartella del programma.
@@ -90,7 +90,7 @@ Dopo l'esecuzione, il file struttura.txt sarà generato nella stessa cartella de
 Run the program from the command line:
 
 ```bash
-treegenerator.exe
+TreeGenerator.exe
 ```
 After running, the file struttura.txt will be generated in the same folder as the program.
 
