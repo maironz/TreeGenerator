@@ -23,6 +23,7 @@ The program:
 - Generates a tree-like representation similar to this:
 
 Software designed by Massimo Ronzulli 2025
+```bash
 PSM/
 ├─ index.html
 ├─ struttura.txt
@@ -48,6 +49,7 @@ PSM/
   │ └─ widgets/
   │ └─ tablestyle.css
   └─ img/
+```
 
 ## Installazione / Installation
 
