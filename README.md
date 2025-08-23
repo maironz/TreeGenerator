@@ -2,6 +2,18 @@
 
 Software designed by Massimo Ronzulli, 2025.
 
+✨ Caratteristiche principali
+
+🚀 Standalone: basta lanciare l’eseguibile, senza installare nulla.
+
+📄 Output automatico: genera un file struttura.txt leggibile e pronto da condividere.
+
+🔒 Sicuro e privato: funziona in locale, nessun dato inviato all’esterno.
+
+🧑‍💻 Per tutti: utilizzabile sia da utenti privati che da professionisti in azienda.
+
+🖥️ Windows ready: compatibile con ambienti Windows, senza dipendenze extra.
+
 ## Descrizione / Description
 
 **Italiano:** 
