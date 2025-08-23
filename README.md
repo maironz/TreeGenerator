@@ -2,6 +2,7 @@
 
 Software designed by Massimo Ronzulli, 2025.
 
+**Italiano:** 
 ✨ Caratteristiche principali
 
 🚀 Standalone: basta lanciare l’eseguibile, senza installare nulla.
@@ -13,6 +14,19 @@ Software designed by Massimo Ronzulli, 2025.
 🧑‍💻 Per tutti: utilizzabile sia da utenti privati che da professionisti in azienda.
 
 🖥️ Windows ready: compatibile con ambienti Windows, senza dipendenze extra.
+
+**English:**
+✨ Key Features
+
+🚀 Standalone: just run the executable, no installation required.
+
+📄 Automatic output: generates a clean struttura.txt file, ready to share.
+
+🔒 Secure & private: runs locally, no data sent outside.
+
+🧑‍💻 For everyone: suitable for both personal and professional use.
+
+🖥️ Windows ready: works on Windows environments with no extra dependencies.
 
 ## Descrizione / Description
 
